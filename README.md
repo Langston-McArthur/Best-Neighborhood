@@ -1,6 +1,5 @@
 # Best-Neighborhood
-
-Team name:
+Death Before Designer
 
 Langston McArthur:
   - email: LAM354@pitt.edu
