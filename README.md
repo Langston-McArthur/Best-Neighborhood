@@ -13,9 +13,9 @@ ________________________________________________________________________________
 Narek Boghosian: 
   - email: NAB176@pitt.edu
   - dataSet: Landslide Deaths
-  - dataSet link:
+  - dataSet link: https://data.wprdc.org/dataset/landslides/resource/dde1f413-c849-413c-b791-0f861bf219ce
 
-sssssss
+This dataset includes information on landslides across the world, giving exact locations via longitude and latitude coordinates, alongside fatalities and injuries for each.
 ___________________________________________________________________________________________________________________________________________________________
 Tyler Wright: 
   - email: ETW19@pitt.edu
