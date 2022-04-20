@@ -9,7 +9,9 @@ Langston McArthur:
 Narek Boghosian: 
 
 Tyler Wright: 
-
+  - email: ETW19@pitt.edu
+  - dataSet: Median Age at Death
+  
 Canvas group number: 75
 
 Description and Links to the datasets used
