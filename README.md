@@ -7,6 +7,8 @@ Langston McArthur:
   - dataSet: CovidCases
 
 Narek Boghosian: 
+  - email: NAB176@pitt.edu
+  - dataSet: Landslide Deaths
 
 Tyler Wright: 
   - email: ETW19@pitt.edu
