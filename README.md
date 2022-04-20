@@ -25,7 +25,7 @@ Tyler Wright:
 This data set includes 6 categories: total white deaths, total black deaths, the white median age at death, the black median age at death, total deaths, and the overall median age at death. The data is organized by neighborhood.
 ___________________________________________________________________________________________________________________________________________________________
 
-Canvas group number: 75
+**Canvas Group Number 75**
 
 
 
