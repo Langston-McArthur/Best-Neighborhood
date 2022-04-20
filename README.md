@@ -13,7 +13,10 @@ Narek Boghosian:
 Tyler Wright: 
   - email: ETW19@pitt.edu
   - dataSet: Median Age at Death
-  
+  - dataSet link: https://data.wprdc.org/dataset/median-age-death/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2
+
+This data set includes 6 categories: total white deaths, total black deaths, the white median age at death, the black median age at death, total deaths, and the overall median age at death. The data is organized by neighborhood.
+
 Canvas group number: 75
 
 Description and Links to the datasets used
