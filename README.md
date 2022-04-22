@@ -1,6 +1,6 @@
 # Best-Neighborhood
 ## **Death Before Designer**
-### **We were tasked with using datasets to prove which neighborhood in pittsburgh is the best.**
+### **We were tasked with using datasets to prove which neighborhood in Pittsburgh is the best.**
 
 ___________________________________________________________________________________________________________________________________________________________
 Langston McArthur:
